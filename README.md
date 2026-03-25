@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nycolas Fernando</h1>
 <h3 align="center">I´m a student</h3>
 
