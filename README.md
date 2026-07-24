@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nycolas Fernando</h1>
 <h3 align="center">I´m a student</h3>
 
-- 🌱 I’m currently learning **about git**
+- 🌱 I’m currently learning **about html**
 
 - 💬 Ask me about **ideas for game projects**
 
